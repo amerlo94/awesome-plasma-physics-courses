@@ -1,10 +1,21 @@
-# awesome-plasma-physics-courses
+# Awesome Plasma Physics Courses
 :books: List of awesome university courses to learn Plasma Physics and Fusion!
+
+## Introduction
+
+This list is an attempt to collect great plasma physics and fusion courses which make their high-quality material i.e. assignments, lectures, notes, readings and examinations available online for free.
 
 ## Contents
 
+- [Plasma Physics](#plasma-physics)
 - [MHD](#mhd)
 - [Transport](#transport)
+- [Waves](#waves)
+
+## Plasma Physics
+
+- [22611, Introduction to Plasma Physics I](https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/index.htm) - MIT (2003).
+	- The course introduces plasma phenomena relevant to energy generation by controlled thermonuclear fusion and to astrophysics, coulomb collisions and transport processes, motion of charged particles in magnetic fields, plasma confinement schemes, MHD models, simple equilibrium and stability analysis. It also covers two-fluid hydrodynamic plasma models, wave propagation in a magnetic field, kinetic theory, Vlasov plasma model, electron plasma waves and Landau damping, ion-acoustic waves, and streaming instabilities.
 
 ## MHD
 
@@ -17,3 +28,8 @@
 
 - [22.616, Plasma Transport Theory](https://ocw.mit.edu/courses/nuclear-engineering/22-616-plasma-transport-theory-fall-2003/) - MIT (2003).
 	- This course describes the processes by which mass, momentum, and energy are transported in plasmas, with special reference to magnetic confinement fusion applications. The Fokker-Planck collision operator and its limiting forms, as well as collisional relaxation and equilibrium, are considered in detail. Special applications include a Lorentz gas, Brownian motion, alpha particles, and runaway electrons. The Braginskii formulation of classical collisional transport in general geometry based on the Fokker-Planck equation is presented. Neoclassical transport in tokamaks, which is sensitive to the details of the magnetic geometry, is considered in the high (Pfirsch-Schluter), low (banana) and intermediate (plateau) regimes of collisionality.
+
+## Waves
+
+- [553 Plasma Waves and Instabilities](http://www.princeton.edu/~idodin/ast.htm) - Princeton (2017).
+	- Hydrodynamic and kinetic models of nonmagnetized and magnetized plasma dispersion; basic plasma waves and their applications; basic instabilities; mechanisms of collisionless dissipation; geometrics-optics approximation, including ray tracing, field-theoretical description of continuous waves, and ponderomotive effects; conservation laws and transport equations for the wave action, energy, and momentum; mode conversion; quasilinear theory.
