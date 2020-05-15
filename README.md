@@ -16,6 +16,10 @@ This list is an attempt to collect great plasma physics and fusion courses which
 
 - [22611, Introduction to Plasma Physics I](https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/index.htm) - MIT (2003).
 	- The course introduces plasma phenomena relevant to energy generation by controlled thermonuclear fusion and to astrophysics, coulomb collisions and transport processes, motion of charged particles in magnetic fields, plasma confinement schemes, MHD models, simple equilibrium and stability analysis. It also covers two-fluid hydrodynamic plasma models, wave propagation in a magnetic field, kinetic theory, Vlasov plasma model, electron plasma waves and Landau damping, ion-acoustic waves, and streaming instabilities.
+- [761, Plasma Physics I](http://www.terpconnect.umd.edu/~drake/classes/physics761/) - UMD (2017).
+	- An introduction to the basic concepts and phenomena of plasma physics. Topics include: Ionization and collisional processes, kinetic and fluid treatments, wave-particle interactions and quasilinear theory, MHD theory, plasma waves, particle orbits and plasma stability. These topics will be discussed as they apply to laboratory and space plasmas.
+- [762, Plasma Physics II](http://www.terpconnect.umd.edu/~drake/classes/physics762/) - UMD (2017).
+	- The dynamics of plasmas are often controlled by nonlinear behavior. This course will introduce some of the basic techniques which have been developed  to understand and describe these dynamics with applications in space and laboratory plasmas. Topics include nonlinear waves and shocks, wave-particle interactions, quasilinear theory and maps, wave-wave interactions, parametric instabilities, drift-waves and transport, Navier Stokes and MHD turbulence, cascade processes and internittancy, magnetic reconnection and the dynamo.
 
 ## MHD
 
