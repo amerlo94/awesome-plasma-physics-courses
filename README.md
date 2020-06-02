@@ -20,6 +20,10 @@ This list is an attempt to collect great plasma physics and fusion courses which
 	- An introduction to the basic concepts and phenomena of plasma physics. Topics include: Ionization and collisional processes, kinetic and fluid treatments, wave-particle interactions and quasilinear theory, MHD theory, plasma waves, particle orbits and plasma stability. These topics will be discussed as they apply to laboratory and space plasmas.
 - [762, Plasma Physics II](http://www.terpconnect.umd.edu/~drake/classes/physics762/) - UMD (2017).
 	- The dynamics of plasmas are often controlled by nonlinear behavior. This course will introduce some of the basic techniques which have been developed  to understand and describe these dynamics with applications in space and laboratory plasmas. Topics include nonlinear waves and shocks, wave-particle interactions, quasilinear theory and maps, wave-wave interactions, parametric instabilities, drift-waves and transport, Navier Stokes and MHD turbulence, cascade processes and internittancy, magnetic reconnection and the dynamo.
+- [Plasmaphysik I](https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_19_20/A_Plasmaphysik/vorlesung/index.html) - LMU (2012).
+	- An introduction to the basic concepts and phenomena of plasma physics.
+- [Plasmaphysik II - Kernfusionsforschung](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_20/A_PlasmaphysikII/vorlesung/index.html) - LMU (2010).
+	- Topics include: introduction to nuclear fusion, magnetic confinement nuclear fusion, transport in magnetized plasmas, plamsa diagnostics.
 
 ## MHD
 
