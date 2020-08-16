@@ -1,5 +1,5 @@
 # Awesome Plasma Physics Courses [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-:books: List of awesome university courses to learn Plasma Physics and Fusion!
+> :books: List of awesome university courses to learn Plasma Physics and Fusion!
 
 This list is an attempt to collect great plasma physics and fusion courses which make their high-quality material i.e. assignments, lectures, notes, readings and examinations available online for free.
 
