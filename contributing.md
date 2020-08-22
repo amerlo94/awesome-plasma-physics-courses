@@ -11,7 +11,7 @@ These guidelines have been adapted from [awesome CONTRIBUTING](https://github.co
 
 ## Adding to this list
 
-If you want something to be included on `awesome-plasma-physics-course`, try to only add actual awesome stuff in your pull requests. After all, it's a curation, not a collection.
+If you want something to be included on `awesome-plasma-physics-courses`, try to only add actual awesome stuff in your pull requests. After all, it's a curation, not a collection.
 
 But **what is awesome?**
 
