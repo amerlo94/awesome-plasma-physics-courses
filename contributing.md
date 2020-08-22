@@ -19,17 +19,17 @@ But **what is awesome?**
 
 Research if the stuff you're including is actually awesome. Put only stuff on the list you can personally recommend and rather leave stuff out than include too much.
 
-## Short course description
-
-Apart from suggesting a particular course, you should also inform your readers about its *content* and how they will benefit from it.
-
 ## Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Please only add/remove one (1) item per commit.
-- Please ensure your items are formatted consistently with the rest.
+- Please ensure your items are formatted consistently with the rest:
+  - Include course code in course title, as `22611, Introduction to Plasma Physics I`.
+  - Include course provider and last teaching year, as `... - MIT (2003)`.
+  - Insert a link where all course resources are clearly available.
+  - Provide short course description and contents as a sub item.
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Please update the table of contents as needed.
