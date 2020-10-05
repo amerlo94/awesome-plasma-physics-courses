@@ -21,7 +21,7 @@ This list is an attempt to collect great plasma physics and fusion courses which
 - [Plasmaphysik I](https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_19_20/A_Plasmaphysik/vorlesung/index.html) - LMU (2012).
 	- An introduction to the basic concepts and phenomena of plasma physics.
 - [Plasmaphysik II - Kernfusionsforschung](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_20/A_PlasmaphysikII/vorlesung/index.html) - LMU (2010).
-	- Topics include: introduction to nuclear fusion, magnetic confinement nuclear fusion, transport in magnetized plasmas, plamsa diagnostics.
+	- Topics include: introduction to nuclear fusion, magnetic confinement nuclear fusion, transport in magnetized plasmas, plasma diagnostics.
 
 ## MHD
 
