@@ -6,6 +6,7 @@ This list is an attempt to collect great plasma physics and fusion courses which
 ## Contents
 
 - [Plasma Physics](#plasma-physics)
+- [Nuclear Fusion](#nuclear-fusion)
 - [MHD](#mhd)
 - [Transport](#transport)
 - [Waves](#waves)
@@ -23,6 +24,13 @@ This list is an attempt to collect great plasma physics and fusion courses which
 - [Plasmaphysik II - Kernfusionsforschung](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_20/A_PlasmaphysikII/vorlesung/index.html) - LMU (2010).
 	- Topics include: introduction to nuclear fusion, magnetic confinement nuclear fusion, transport in magnetized plasmas, plamsa diagnostics.
 
+## Nuclear Fusion
+
+- [Introduction to Fusion Energy and Plasma Physics](https://suli.pppl.gov/2020/course/index.html) - Princeton (2020).
+	- The Summer Science Undergraduate Laboratory Internship (SULI) course is a summer school regularly given at Princeton Plasma Physics Laboratory (PPPL). It consists of a series of lectures ranging from an introductory level into plasma physics and nuclear fusion to specialized talks about turbulence in plasmas, plasma propulsion, and complex plasmas, to give just a few examples.
+- [Fusion Research](https://www.youtube.com/playlist?list=PL9F2aQG5CnOdw9MXqS309tojBUvChQ9jm) - Stuttgart (2020).
+	- General introduction to nuclear fusion.
+
 ## MHD
 
 - [22.615, MHD Theory of Fusion Systems](https://ocw.mit.edu/courses/nuclear-engineering/22-615-mhd-theory-of-fusion-systems-spring-2007/) - MIT (2007).
@@ -32,6 +40,8 @@ This list is an attempt to collect great plasma physics and fusion courses which
 - [Advanced Fluid Dynamics](http://www-thphys.physics.ox.ac.uk/people/AlexanderSchekochihin/AdvFD/) - Oxford (2020).
 	- Part I: MHD equations: conservation laws in a conducting fluid; Maxwell stress/magnetic forces; induction equation; Lundquist theorem, flux freezing, amplification of magnetic field. MHD in a strong guide field: MHD waves; high-beta and anisotropic limits and orderings; incompressible MHD, Elsasser MHD, Reduced MHD. Static MHD equilibria, force-free solutions, helicity, Taylor relaxation. Energy principle. Instabilities: interchange, Z-pinch.
 	- Part II: Fluid mechanics with general extra stress. Dilute suspension of spheres: Einstein viscosity. Dilute suspension of beads on springs: Oldroyd-B model for polymeric liquids, elastic waves, anisotropic pressure. Dilute suspension of orientable particles (ellipsoids): road map to liquid crystals, swimmers and active matter.
+- [Plasma Fluid Theory](https://www.youtube.com/playlist?list=PLJnw7q_gjMgmuGctIqL6crS7cmmALTZLe) - National Research Foundation of Korea (2019).
+	- This course requires basic undergraduate physics knowledge and starts with simple fluid mechanics, going then into a wide range of topics including 2-fluid treatment, magnetohydroynamics (MHD), and more. Lecture notes are available [here](https://www-users.york.ac.uk/~bd512/teaching/plasma-fluid-theory.html).
 
 ## Transport
 
