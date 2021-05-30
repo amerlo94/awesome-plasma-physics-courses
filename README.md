@@ -33,6 +33,8 @@ This list is an attempt to collect great plasma physics and fusion courses which
 	- The Summer Science Undergraduate Laboratory Internship (SULI) course is a summer school regularly given at Princeton Plasma Physics Laboratory (PPPL). It consists of a series of lectures ranging from an introductory level into plasma physics and nuclear fusion to specialized talks about turbulence in plasmas, plasma propulsion, and complex plasmas, to give just a few examples.
 - [Fusion Research](https://www.youtube.com/playlist?list=PL9F2aQG5CnOdw9MXqS309tojBUvChQ9jm) - Stuttgart (2020).
 	- General introduction to nuclear fusion.
+- [Plasma and Fusion Energy Physics](http://hdl.handle.net/2128/9939) - KU Leuven (2015).
+	- The Carolus Magnus Summer School aims at graduate and postgraduate students active in or becoming active in controlled thermonuclear fusion. Lecture notes are available [here](https://juser.fz-juelich.de/record/283582/files/Energie_Umwelt_298.pdf?version=1).
 
 ## MHD
 
