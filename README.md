@@ -10,11 +10,14 @@ This list is an attempt to collect great plasma physics and fusion courses which
 - [MHD](#mhd)
 - [Transport](#transport)
 - [Waves](#waves)
+- [Meta](#meta)
 
 ## Plasma Physics
 
 - [22611, Introduction to Plasma Physics I](https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/index.htm) - MIT (2003).
 	- The course introduces plasma phenomena relevant to energy generation by controlled thermonuclear fusion and to astrophysics, coulomb collisions and transport processes, motion of charged particles in magnetic fields, plasma confinement schemes, MHD models, simple equilibrium and stability analysis. It also covers two-fluid hydrodynamic plasma models, wave propagation in a magnetic field, kinetic theory, Vlasov plasma model, electron plasma waves and Landau damping, ion-acoustic waves, and streaming instabilities.
+- [525, Introduction to Plasmas](https://www.youtube.com/playlist?list=PL1FcfKGHsyMhfKegznP0i7eO804Z5YBdm) - WISC (1990).
+	- Develop an understanding of plasmas and models used to describe a plasma, and explore their applications. Additional resources could be found [here](http://mediasite.engr.wisc.edu/Mediasite/Catalog/Full/7b399ee95a21457491e921a3fe66a51b21/2139e2add08849ceae646b794c95436c14/7b399ee95a21457491e921a3fe66a51b21).
 - [761, Plasma Physics I](http://www.terpconnect.umd.edu/~drake/classes/physics761/) - UMD (2017).
 	- An introduction to the basic concepts and phenomena of plasma physics. Topics include: Ionization and collisional processes, kinetic and fluid treatments, wave-particle interactions and quasilinear theory, MHD theory, plasma waves, particle orbits and plasma stability. These topics will be discussed as they apply to laboratory and space plasmas.
 - [762, Plasma Physics II](http://www.terpconnect.umd.edu/~drake/classes/physics762/) - UMD (2017).
@@ -52,3 +55,8 @@ This list is an attempt to collect great plasma physics and fusion courses which
 
 - [553 Plasma Waves and Instabilities](http://www.princeton.edu/~idodin/ast.htm) - Princeton (2017).
 	- Hydrodynamic and kinetic models of nonmagnetized and magnetized plasma dispersion; basic plasma waves and their applications; basic instabilities; mechanisms of collisionless dissipation; geometrics-optics approximation, including ray tracing, field-theoretical description of continuous waves, and ponderomotive effects; conservation laws and transport equations for the wave action, energy, and momentum; mode conversion; quasilinear theory.
+
+## Meta
+
+- [James D. Callen Plasma Physics Lectures Notes](http://homepages.cae.wisc.edu/~callen/plasmas.html) - WISC.
+	- A collection of plasma physics courses, papers, books, videotapes and handwritten lecture notes. Lectures include: plasma confinement and heating, waves and instabilities in plasmas, plasma kinetic theory and plasma MHD.
