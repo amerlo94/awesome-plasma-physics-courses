@@ -35,6 +35,8 @@ This list is an attempt to collect great plasma physics and fusion courses which
 	- General introduction to nuclear fusion.
 - [Plasma and Fusion Energy Physics](http://hdl.handle.net/2128/9939) - KU Leuven (2015).
 	- The Carolus Magnus Summer School aims at graduate and postgraduate students active in or becoming active in controlled thermonuclear fusion. Lecture notes are available [here](https://juser.fz-juelich.de/record/283582/files/Energie_Umwelt_298.pdf?version=1).
+- [Magnetic Confinement Fusion](https://www-users.york.ac.uk/~bd512/teaching/mcf.html) - Oxford (2014).
+	- General course on magnetic confinement fusion, covering topics such as MHD, neoclassical transport, plasma waves, heating, instabilities and turbulence. The course is taught to MSc and PhD students in the second term, and assumes some prior knowledge of basic plasma physics e.g. Larmor orbits and Debye length.
 
 ## MHD
 
