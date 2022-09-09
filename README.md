@@ -10,6 +10,7 @@ This list is an attempt to collect great plasma physics and fusion courses which
 - [MHD](#mhd)
 - [Transport](#transport)
 - [Waves](#waves)
+- [Computational Physics](#computational-physics)
 - [Meta](#meta)
 
 ## Plasma Physics
@@ -59,6 +60,11 @@ This list is an attempt to collect great plasma physics and fusion courses which
 
 - [553 Plasma Waves and Instabilities](http://www.princeton.edu/~idodin/ast.htm) - Princeton (2017).
 	- Hydrodynamic and kinetic models of nonmagnetized and magnetized plasma dispersion; basic plasma waves and their applications; basic instabilities; mechanisms of collisionless dissipation; geometrics-optics approximation, including ray tracing, field-theoretical description of continuous waves, and ponderomotive effects; conservation laws and transport equations for the wave action, energy, and momentum; mode conversion; quasilinear theory.
+
+## Computational Physics
+
+- [Computational Plasma Physics](https://www-m16.ma.tum.de/Allgemeines/CompPlasmaPhys16) - TUM (2016).
+	-  The lecture will provide an introduction to scientific computing with application to plasma physics and magnetic fusion. We well introduce spectral (FFT based) numerical methods as well as Finite Differences and Finite Elements highlighting the essential concepts of consistency and stability. The classical kinetic and fluid descriptions of plasmas will be introduced and the numerical methods will be applied to the computation of MHD equilibria in a Tokamak with the Grad-Shafranov equation and then to the linear MHD stability problem. Finally an introduction to kinetic simulation based on spectral and PIC methods will be proposed and applied to the 1D Landau damping and bump-on-tail problems. An exercise class will be associated to the lecture where the methods introduced in the lecture will be coded in MATLAB.
 
 ## Meta
 
