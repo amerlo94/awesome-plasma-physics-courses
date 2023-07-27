@@ -32,6 +32,8 @@ This list is an attempt to collect great plasma physics and fusion courses which
 	- Topics include: Applications, which deals with plasma applications in astrophysics, industry, medicine, nuclear fusion and laser-plasma interaction. There is also an advanced course on [plasma applications](https://courseware.epfl.ch/courses/course-v1:EPFL+PlasmaApplication+1T_2018/course/). Videos are available without registration on [YouTube](https://www.youtube.com/@plasmaphysicsandapplicatio3913)
 - [Plasma Physics II](https://elearning.unimib.it/course/view.php?id=39102) - Bicocca (2022).
 	- Topics include an introduction to plasma physics, single particle motion in electric and magnetic fields, collisions and Fokker-Planck theory, collisional transport, introduction to thermonuclear fusion. All lecture recordings are available on the course homepage.
+- [029:194, Plasma Physics I](http://homepage.physics.uiowa.edu/~ghowes/teach/phys194/index.html) - IOWA (2010).
+	- Physics of ionized gases, including orbit theory, guiding center motion, adiabatic invariants, ionization balance description of plasmas by fluid variables and distribution functions; linearized wave motions, instabilities; magnetohydrodynamics.
 
 ## Nuclear Fusion
 
