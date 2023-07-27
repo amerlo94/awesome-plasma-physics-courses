@@ -81,4 +81,4 @@ This list is an attempt to collect great plasma physics and fusion courses which
 ## Talks
 
  - [Fusion-EP Talks](https://www.youtube.com/@FusionEPTalks)
- 	- A student-led seminar of the European Master In [Fusion Science and Engineering program](https://www.em-master-fusion.org/)
+ 	- A student-led seminar of the European Master In [Fusion Science and Engineering program](https://www.em-master-fusion.org/).
