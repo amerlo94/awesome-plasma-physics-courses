@@ -30,6 +30,8 @@ This list is an attempt to collect great plasma physics and fusion courses which
 	- Topics include: introduction to nuclear fusion, magnetic confinement nuclear fusion, transport in magnetized plasmas, plasma diagnostics.
 - [Plasma Physics: Introduction](https://actu.epfl.ch/news/mooc-plasma-physics-introduction-2/) - EPFL (2017).
 	- Topics include: Applications, which deals with plasma applications in astrophysics, industry, medicine, nuclear fusion and laser-plasma interaction. There is also an advanced course on [plasma applications](https://courseware.epfl.ch/courses/course-v1:EPFL+PlasmaApplication+1T_2018/course/). Videos are available without registration on [YouTube](https://www.youtube.com/@plasmaphysicsandapplicatio3913)
+- [Plasma Physics II](https://elearning.unimib.it/course/view.php?id=39102) - Bicocca (2022).
+	- Topics include an introduction to plasma physics, single particle motion in electric and magnetic fields, collisions and Fokker-Planck theory, collisional transport, introduction to thermonuclear fusion. All lecture recordings are available on the course homepage.
 
 ## Nuclear Fusion
 
