@@ -29,10 +29,7 @@ This list is an attempt to collect great plasma physics and fusion courses which
 - [Plasmaphysik II - Kernfusionsforschung](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_20/A_PlasmaphysikII/vorlesung/index.html) - LMU (2010).
 	- Topics include: introduction to nuclear fusion, magnetic confinement nuclear fusion, transport in magnetized plasmas, plasma diagnostics.
 - [Plasma Physics: Introduction](https://actu.epfl.ch/news/mooc-plasma-physics-introduction-2/) - EPFL (2017).
-	- Topics include: Applications, which deals with plasma applications in astrophysics, industry, medicine, nuclear fusion and laser-plasma interaction.
-	- There is also an advanced course on [Application](https://courseware.epfl.ch/courses/course-v1:EPFL+PlasmaApplication+1T_2018/course/)
-	- Videos are available without registration on [YouTube](https://www.youtube.com/@plasmaphysicsandapplicatio3913)
-
+	- Topics include: Applications, which deals with plasma applications in astrophysics, industry, medicine, nuclear fusion and laser-plasma interaction. There is also an advanced course on [plasma applications](https://courseware.epfl.ch/courses/course-v1:EPFL+PlasmaApplication+1T_2018/course/). Videos are available without registration on [YouTube](https://www.youtube.com/@plasmaphysicsandapplicatio3913)
 
 ## Nuclear Fusion
 
@@ -76,8 +73,7 @@ This list is an attempt to collect great plasma physics and fusion courses which
 
 - [James D. Callen Plasma Physics Lectures Notes](http://homepages.cae.wisc.edu/~callen/plasmas.html) - WISC.
 	- A collection of plasma physics courses, papers, books, videotapes and handwritten lecture notes. Lectures include: plasma confinement and heating, waves and instabilities in plasmas, plasma kinetic theory and plasma MHD.
-	
-	
+
 ## Talks
 
  - [Fusion-EP Talks](https://www.youtube.com/@FusionEPTalks)
